@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5274f6f6dc408088",
+        "id": "88e7aa5aaff355d4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "01_VCV-Patches/Tape Memories.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "01_VCV-Patches/Tape Memories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -95,17 +95,17 @@
     "width": 226,
     "collapsed": true
   },
-  "active": "5274f6f6dc408088",
+  "active": "88e7aa5aaff355d4",
   "lastOpenFiles": [
+    "99_Media/Img/TapeMemories.jpg",
+    "01_VCV-Patches/Tape Memories.md",
+    "README.md",
     "04_Alia/Reaper/Tools/NanoKontrolStudio/README.md",
     "01_VCV-Patches/Albula.md",
     "03_Norns/Script/Dronecaster.md",
     "99_Media/Templates/Norns_Tpl.md",
     "03_Norns/Monome Norns Refs Links.md",
-    "README.md",
     "99_Allegati/Pdf/2022_Pdf/FDI_2022_0167315.pdf",
-    "01_Diario/2022_Diario/08-agosto-2022/12-agosto-2022_venerdì.md",
-    "01_Diario/2022_Diario/08-agosto-2022/26-agosto-2022_venerdì.md",
-    "01_Diario/2022_Diario/03-marzo-2022/20-03-2022.md"
+    "01_Diario/2022_Diario/08-agosto-2022/12-agosto-2022_venerdì.md"
   ]
 }
