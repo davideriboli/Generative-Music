@@ -1,0 +1,54 @@
+Vult: Vult Modules Free (https://modlfo.github.io/VultModules/)
+    Caudal (Free)
+    Tangents (Free)
+Valley: Valley (https://valleyaudio.github.io)
+    Plateau
+VCV: VCV Recorder
+    Recorder
+VCV: VCV Fundamental (https://vcvrack.com/Fundamental)
+    Merge
+    Scope
+    Split
+    Sum
+    VCA
+VCV: VCV Core
+    Audio 2
+    Blank
+    Notes
+Squinky Labs: Squinky Labs (https://github.com/kockie69/SquinkyVCV-main/blob/master/README.md)
+    Formants
+    Saws
+NYSTHI: NYSTHI (https://github.com/nysthi/nysthi/releases)
+    PolyAttackDecay Polyphonic AD
+    Stereo Recorder vers 2
+    µMIXER2
+MindMeld: MindMeld (https://www.facebook.com/MindMeldModular)
+    AuxSpanderJr
+    MixMasterJr
+ML Modules: ML Modules (https://github.com/martin-lueders/ML_modules/wiki)
+    Quantum
+JW-Modules: JW-Modules (https://github.com/jeremywen/JW-Modules)
+    Add5
+    Simple Clock
+Interrobang: Interrobang (https://github.com/jimallman/interrobang-rack-modules/)
+    Scribble Strip, 3 HP (SS-3)
+Count Modula: Count Modula (https://github.com/countmodula/VCVRackPlugins/blob/master/README.md)
+    Cable Palette
+    Switch 1-8
+chowdsp: ChowDSP (https://github.com/jatinchowdhury18/ChowDSP-VCV)
+    Credit
+Bogaudio: Bogaudio (https://github.com/bogaudio/BogaudioModules/blob/master/README.md)
+    FM-OP
+    LLFO
+    LVCO
+    NOISE
+    OFFSET
+    REFTONE
+    S&H
+    WALK
+Befaco: Befaco (https://vcvrack.com/Befaco)
+    Rampage
+Audible Instruments: Audible Instruments (https://vcvrack.com/AudibleInstruments)
+    Bernoulli Gate
+AS: AS (https://github.com/AScustomWorks/AS/blob/V2/README.md)
+    Flow

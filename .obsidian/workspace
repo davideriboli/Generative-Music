@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01_VCV-Patches/Tape Memories.md",
-            "mode": "source",
+            "file": "01_VCV-Patches/Winter Fog II.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_VCV-Patches/Tape Memories.md",
+                "file": "01_VCV-Patches/Winter Fog II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -97,8 +97,8 @@
   },
   "active": "88e7aa5aaff355d4",
   "lastOpenFiles": [
-    "99_Media/Img/TapeMemories.jpg",
     "01_VCV-Patches/Tape Memories.md",
+    "99_Media/Img/TapeMemories.jpg",
     "README.md",
     "04_Alia/Reaper/Tools/NanoKontrolStudio/README.md",
     "01_VCV-Patches/Albula.md",
