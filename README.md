@@ -11,6 +11,8 @@ The main directories contain:
 - [Norns Shield](https://monome.org/docs/norns/shield/) related scripts and materials;
 -  miscellaneous materials and utilities.
 
+Please note that, since these are mostly tools and recipes that I use for my own compositions, this repository does not involve any "issues" interactions. However, you can participate in [discussions](https://github.com/davideriboli/Generative-Music/discussions) and, through those, propose contributions and/or changes. You will also find useful information on the [wiki](https://github.com/davideriboli/Generative-Music/wiki). 
+
 Everything created by me and published here is released under the MIT License. Materials by other authors are released under their respective licenses.
 
 *Stormy Weather* is the podcast with my compositions of generative music and natural soundscapes, available via:
