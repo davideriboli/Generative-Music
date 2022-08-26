@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01_VCV-Patches/Winter Fog II.md",
+            "file": "README.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 185
+    "width": 401
   },
   "right": {
     "id": "435f602aea95c45e",
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_VCV-Patches/Winter Fog II.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -97,15 +97,15 @@
   },
   "active": "88e7aa5aaff355d4",
   "lastOpenFiles": [
+    "03_Norns/Script/Dronecaster.md",
+    "04_Alia/Readings/10 Tips & Tricks for Expressive Modular Synth Patching.md",
+    "01_VCV-Patches/Albula.md",
+    "01_VCV-Patches/Winter Fog II.md",
     "01_VCV-Patches/Tape Memories.md",
     "99_Media/Img/TapeMemories.jpg",
     "README.md",
     "04_Alia/Reaper/Tools/NanoKontrolStudio/README.md",
-    "01_VCV-Patches/Albula.md",
-    "03_Norns/Script/Dronecaster.md",
     "99_Media/Templates/Norns_Tpl.md",
-    "03_Norns/Monome Norns Refs Links.md",
-    "99_Allegati/Pdf/2022_Pdf/FDI_2022_0167315.pdf",
-    "01_Diario/2022_Diario/08-agosto-2022/12-agosto-2022_venerdì.md"
+    "03_Norns/Monome Norns Refs Links.md"
   ]
 }
