@@ -1,0 +1,33 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RiAttachmentLine",
+      "RiNeteaseCloudMusicLine",
+      "RiFolderMusicFill",
+      "FasExclamation",
+      "RiAttachment2"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraPadding": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    }
+  },
+  "01_Diario": "FasBookJournalWhills",
+  "02_Sogni": "FasCloudMoon",
+  "99_Allegati": "RiAttachment2",
+  "03_Furti": "RiDoubleQuotesL",
+  "README.md": "FasExclamation",
+  "01_VCV-Patches": "RiFolderMusicFill",
+  "02_Wotjia": "RiFolderMusicFill",
+  "99_Media": "RiAttachmentLine",
+  "04_Alia": "RiNeteaseCloudMusicLine",
+  "03_Norns": "RiFolderMusicFill"
+}

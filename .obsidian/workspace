@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "c274eb32a5904299",
+    "type": "split",
+    "children": [
+      {
+        "id": "5274f6f6dc408088",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ebb02e2e6406f14",
+    "type": "split",
+    "children": [
+      {
+        "id": "d04831e39a2b9d4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28aaaac65ab5d578",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa37c77b82d353b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 185
+  },
+  "right": {
+    "id": "435f602aea95c45e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0613bcc6c89f323",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6c054d162cab96f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "66aa3063873e9827",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226,
+    "collapsed": true
+  },
+  "active": "5274f6f6dc408088",
+  "lastOpenFiles": [
+    "04_Alia/Reaper/Tools/NanoKontrolStudio/README.md",
+    "01_VCV-Patches/Albula.md",
+    "03_Norns/Script/Dronecaster.md",
+    "99_Media/Templates/Norns_Tpl.md",
+    "03_Norns/Monome Norns Refs Links.md",
+    "README.md",
+    "99_Allegati/Pdf/2022_Pdf/FDI_2022_0167315.pdf",
+    "01_Diario/2022_Diario/08-agosto-2022/12-agosto-2022_venerdì.md",
+    "01_Diario/2022_Diario/08-agosto-2022/26-agosto-2022_venerdì.md",
+    "01_Diario/2022_Diario/03-marzo-2022/20-03-2022.md"
+  ]
+}
