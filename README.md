@@ -1,6 +1,6 @@
 # Generative Music
 
-This repository contains materials of different kinds, all related to generative music. The repository is organized in the form of an Obsidian Vault, so you should get [Obsidian](https://obsidian.md/) first.
+This repository contains materials of different kinds, all related to generative music. The repository is organized in the form of an Obsidian Vault, so you should get [Obsidian](https://obsidian.md/) first and then open the main directory as a *vault*.
 
 The main directories contain:
 
