@@ -4,7 +4,8 @@ tags: ['arpeggio','ambient','generative','light','vcv2']
 
 ![[albula.png]]
 
-- [[Albula.vcv]]
+![[Albula.vcv]]
+
 - Patchstorage: https://patchstorage.com/albula/
 - Author: [robb62](https://patchstorage.com/author/robb62/ "Posts by robb62")
 

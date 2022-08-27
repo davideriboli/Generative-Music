@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401
+    "width": 303
   },
   "right": {
     "id": "435f602aea95c45e",
@@ -92,20 +92,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226,
-    "collapsed": true
+    "width": 226
   },
   "active": "88e7aa5aaff355d4",
   "lastOpenFiles": [
-    "03_Norns/Script/Dronecaster.md",
-    "04_Alia/Readings/10 Tips & Tricks for Expressive Modular Synth Patching.md",
-    "01_VCV-Patches/Albula.md",
-    "01_VCV-Patches/Winter Fog II.md",
-    "01_VCV-Patches/Tape Memories.md",
-    "99_Media/Img/TapeMemories.jpg",
-    "README.md",
-    "04_Alia/Reaper/Tools/NanoKontrolStudio/README.md",
-    "99_Media/Templates/Norns_Tpl.md",
-    "03_Norns/Monome Norns Refs Links.md"
+    "04_Alia/README.md",
+    "03_Norns/README.md",
+    "02_Wotjia/README.md",
+    "01_VCV-Patches/README.md",
+    "00_Learning_VCV/README.md",
+    "00_Learning_VCV/0001-Patch, Modules & Colors/0001_Patch-Modules-Colors.md",
+    "99_Media/Templates/VCV_Tpl.md",
+    "01_VCV-Patches/Winter Fog II/Winter Fog II.md",
+    "01_VCV-Patches/Tape Memories/Tape Memories.md",
+    "01_VCV-Patches/Albula/Albula.md"
   ]
 }
