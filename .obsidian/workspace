@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source",
+            "file": "01_VCV-Patches/Ambient-2/Self Generating Ambient.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "01_VCV-Patches/Ambient-2/Self Generating Ambient.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -96,15 +96,15 @@
   },
   "active": "88e7aa5aaff355d4",
   "lastOpenFiles": [
+    "01_VCV-Patches/Tape Memories/Tape Memories.md",
+    "01_VCV-Patches/Ambient-2/Self Generating Ambient.md",
+    "README.md",
     "04_Alia/README.md",
     "03_Norns/README.md",
     "02_Wotjia/README.md",
     "01_VCV-Patches/README.md",
     "00_Learning_VCV/README.md",
     "00_Learning_VCV/0001-Patch, Modules & Colors/0001_Patch-Modules-Colors.md",
-    "99_Media/Templates/VCV_Tpl.md",
-    "01_VCV-Patches/Winter Fog II/Winter Fog II.md",
-    "01_VCV-Patches/Tape Memories/Tape Memories.md",
-    "01_VCV-Patches/Albula/Albula.md"
+    "99_Media/Templates/VCV_Tpl.md"
   ]
 }
